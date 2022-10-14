@@ -6,7 +6,7 @@ I am also a networking lover and life explorer. I am also a networking lover and
 
 I also play video games like League of Legends and like driving to remote places with my cat ~~, to find a fight with the kangaroos~~.
 
-You can find [my CV here](https://github.com/n3ih7/n3ih7/raw/main/10%20Oct.pdf).
+You can find [my CV here](https://github.com/n3ih7/n3ih7/raw/main/13%20Oct.pdf).
 
 # Languages and tools
 

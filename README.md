@@ -1,6 +1,4 @@
-A proactive engineer with a diverse tech stack, including proficiency in Next.js, React w/ TypeScript, Remix, PHP, Laravel. Experienced in agile development and well-versed in eCommerce and Telecommunication industries. Adept at pinpointing requirements and crafting resilient technical solutions that bolster efficiency and ensure long-term viability.
-
-I am also a networking lover and life explorer. I enjoy the experience of using various methods to get information. I sometimes spend a whole weekend tinkering with my home network setup when I see a new concept or toolchain that interests me. Yet, I know that Aussies are supposed to go sunbathing and bushwalk.
+Engineer known for designing resilient technical solutions. Driven by curiosity and always eager to dive into new concepts and ideas. Meanwhile, there's an undeniable Aussie charm in being drawn to sunbathing and bushwalks.
 
 :D
 
